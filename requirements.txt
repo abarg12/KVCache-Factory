@@ -16,6 +16,7 @@ openai
 anthropic
 seaborn
 matplotlib
-
+transformers>=4.41
+ 
 # minference
---config-settings=--no-build-isolation git+https://github.com/microsoft/MInference.git@yucheng/kvcompression
+# git+https://github.com/microsoft/MInference.git@yucheng/kvcompression
